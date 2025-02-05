@@ -1,0 +1,5 @@
+I am currently learning front-end web development, 
+exploring technologies like HTML, CSS, and JavaScript 
+to build interactive and visually appealing websites. 
+As I progress, I will also dive into frameworks like React or Vue.js 
+to enhance my skills and create dynamic web applications.
